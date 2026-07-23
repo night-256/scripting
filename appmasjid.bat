@@ -1,4 +1,4 @@
-=========================================
+===================STANDART USER===================
 Create appmasjid.bat
 Buat sebuah file di desktop
  - klik kanan desktop, new, txt document, buat nama dengan "appmasjid.bat"
@@ -7,6 +7,15 @@ Buat sebuah file di desktop
 - sesuaikan url pada "--app=https://sub.domain.com ^"
 - klik kanan file tsb, properties, pastikan type : Windows Batch File (.bat)
 - double klik file tersebut untuk run
+
+===================PRO USER===================
+ - Lakukan semua step by step "STANDART USER" diatas
+ - Pindahkan file tersebut ke folder aman ( CUT & paste). cth pindahkan ke data "D:/app masjid"
+ - copy file tersebut, kemudian kembali ke desktop, klik kanan, paste shortcut
+ - rename sesuai nama yang diinginkan
+ - klik kanan, properties, cek tombol dibawah, klik pada tombol "change icon"
+ - pilih icon yang diinginkan
+ - DONE
 
 =========================================
 
