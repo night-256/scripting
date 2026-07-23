@@ -4,6 +4,7 @@ Buat sebuah file di desktop
  - klik kanan desktop, new, txt document, buat nama dengan "appmasjid.bat"
 - klik kanan file tersebut, open with notepad
 - pastekan script pada file ini dan save, exit. ( copy mulai dari "@echo off" dan seterusnya sampai baris paling bawah )
+- sesuaikan url pada "--app=https://sub.domain.com ^"
 - klik kanan file tsb, properties, pastikan type : Windows Batch File (.bat)
 - double klik file tersebut untuk run
 
@@ -14,7 +15,7 @@ Buat sebuah file di desktop
 :: Script untuk menjalankan Microsoft Edge dalam mode Kiosk / App di Windows
 
 start "" "%ProgramFiles(x86)%\Microsoft\Edge\Application\msedge.exe" ^
-    --app=https://masjid.khayalan.net ^
+    --app=https://sub.domain.com ^
     --kiosk ^
     --no-first-run ^
     --no-sandbox ^
