@@ -1,3 +1,15 @@
+=========================================
+Create appmasjid.bat
+Buat sebuah file di desktop
+ - klik kanan desktop, new, txt document, buat nama dengan "appmasjid.bat"
+- klik kanan file tersebut, open with notepad
+- pastekan script pada file ini dan save, exit. ( copy mulai dari "@echo off" dan seterusnya sampai baris paling bawah )
+- klik kanan file tsb, properties, pastikan type : Windows Batch File (.bat)
+- double klik file tersebut untuk run
+
+=========================================
+
+
 @echo off
 :: Script untuk menjalankan Microsoft Edge dalam mode Kiosk / App di Windows
 
